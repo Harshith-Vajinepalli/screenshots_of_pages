@@ -1,12 +1,2 @@
-Business Functions,"Enterprise-wide,
-Client Onboarding,
-Trade Execution,
-Portfolio Management,
-Fund Accounting and Administration,
-Risk and Compliance,
-Reporting and Client Communications"
-Solution Components,"Data Management, LLM,
-Analytics and Modeling,
-GenAI,
-Process Automation,
-Experts-in-Loop Operations"
+Business Functions,"Enterprise-wide,Client Onboarding,Trade Execution,Portfolio Management,Fund Accounting and Administration,Risk and Compliance,Reporting and Client Communications"
+Solution Components,"Data Management, LLM,Analytics and Modeling,GenAI,Process Automation,Experts-in-Loop Operations"
